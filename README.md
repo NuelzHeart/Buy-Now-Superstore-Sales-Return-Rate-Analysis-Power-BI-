@@ -2,8 +2,22 @@
 <img width="899" height="539" alt="Buy Now Superstore Dashboard 1" src="https://github.com/user-attachments/assets/f3dad800-f726-4dfe-a364-f0aadf9ef7fe" />
 <img width="835" height="492" alt="Buy now Superstore Dashboard 2" src="https://github.com/user-attachments/assets/c1e724b4-1726-4e91-b253-cd8a5ea0eaab" />
 
+## Table of Contents
+- [Project Overview](#-project-overview)
+- [Business Objectives](#-business-objectives)
+- [Datasets Used](#-datasets-used)
+- [Data Preparation](#-data-preparation)
+- [Data Modeling](#-data-modeling)
+- [DAX Measures](#-dax-measures)
+- [Dashboards & Visualizations](#-dashboards--visualizations)
+- [Key Insights](#-key-insights)
+- [Recommendations](#-recommendations)
+- [Data & Decision-Making](#-data--decision-making)
+- [Tools Used](#-tools-used)
+- [Author](#-author)
+
 ## 🔍 Project Overview
-This project presents an end-to-end Sales Performance and Return Impact Analysis using Power BI. The goal is to transform raw transactional data into actionable insights that drive decision-making.
+This project presents an end-to-end analysis of Sales Performance and Return Impact using Power BI. The goal is to transform raw transactional data into actionable insights that drive decision-making.
 The dashboards provide a clear view of:
 - Overall sales and profitability
 - Customer purchasing behavior
