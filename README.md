@@ -72,7 +72,7 @@ This step ensured the datasets were logically aligned before advanced transforma
 - Total Customers = DISTINCTCOUNT(factOrder[Customer ID])
 
 ## 📊 Sales Overview Dashboard
--  <a href="">View Dashboard</a>
+-  <a href="https://github.com/NuelzHeart/Buy-Now-Superstore-Sales-Return-Rate-Analysis-Power-BI-/blob/main/Buy%20Now%20Superstore%20Dashboard%201.png">View Dashboard</a>
 ## 📊 Return Rate Dashboard
 -  <a href="">View Dashboard</a>
 
