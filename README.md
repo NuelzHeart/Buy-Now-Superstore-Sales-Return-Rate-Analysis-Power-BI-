@@ -42,8 +42,10 @@ Contains transactional data, including:
 - Customer details
 - Product details
 - Sales, Profit, Quantity, Discount
+
 ### 2️. Returns Table
 - Flags returned orders using Order ID
+
 ### 3️. People Table
 - Maps Managers to Regions for accountability analysis
 
