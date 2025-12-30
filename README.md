@@ -20,7 +20,7 @@ This project demonstrates strong skills in data cleaning, data modeling, DAX, vi
 - Support data-driven decision-making with interactive dashboards
 
 ## 📂 Datasets Used
-- <a href="">Dataset</a>
+- <a href="https://github.com/NuelzHeart/Buy-Now-Superstore-Sales-Return-Rate-Analysis-Power-BI-/blob/main/Buy%20Now%20Superstore%20Dataset.xlsx">Dataset</a>
 
 ### 1️. Orders Table
 Contains transactional data, including:
@@ -70,6 +70,11 @@ This step ensured the datasets were logically aligned before advanced transforma
 - Total Returned Order = CALCULATE(DISTINCTCOUNT(factOrder[Order ID]), factOrder[Returned] = "Yes")
 - Return Rate = DIVIDE([Total Returned Order], [Total Order], 0)
 - Total Customers = DISTINCTCOUNT(factOrder[Customer ID])
+
+## 📊 Sales Overview Dashboard
+-  <a href="">View Dashboard</a>
+## 📊 Return Rate Dashboard
+-  <a href="">View Dashboard</a>
 
 ## 📊 Dashboards & Visualizations
 ### 🟢 Sales Overview Dashboard
