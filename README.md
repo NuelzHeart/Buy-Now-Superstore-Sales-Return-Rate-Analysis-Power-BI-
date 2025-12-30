@@ -71,12 +71,9 @@ This step ensured the datasets were logically aligned before advanced transforma
 - Return Rate = DIVIDE([Total Returned Order], [Total Order], 0)
 - Total Customers = DISTINCTCOUNT(factOrder[Customer ID])
 
-## 📊 Sales Overview Dashboard
--  <a href="https://github.com/NuelzHeart/Buy-Now-Superstore-Sales-Return-Rate-Analysis-Power-BI-/blob/main/Buy%20Now%20Superstore%20Dashboard%201.png">View Dashboard</a>
-## 📊 Return Rate Dashboard
--  <a href="">View Dashboard</a>
-
 ## 📊 Dashboards & Visualizations
+### 📊 Sales Overview Dashboard
+-  <a href="https://github.com/NuelzHeart/Buy-Now-Superstore-Sales-Return-Rate-Analysis-Power-BI-/blob/main/Buy%20Now%20Superstore%20Dashboard%201.png">View Dashboard</a>
 ### 🟢 Sales Overview Dashboard
 #### Key Performance Indicators
 | KPI | Value |
@@ -92,6 +89,8 @@ This step ensured the datasets were logically aligned before advanced transforma
 - Line Chart: Monthly Sales Trend
 - Column Chart: Total Sales by Category
 - Year Slicer (2014–2017)
+### 📊 Return Rate Dashboard
+-  <a href="https://github.com/NuelzHeart/Buy-Now-Superstore-Sales-Return-Rate-Analysis-Power-BI-/blob/main/Buy%20now%20Superstore%20Dashboard%202.png">View Dashboard</a>
 ### 🔴 Return Rate Dashboard
 #### Key Performance Indicators
 | KPI | Value |
